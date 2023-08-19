@@ -1,16 +1,25 @@
-### Hi there 👋
+Hello, World! 👋
 
-<!--
-**ajanes780/ajanes780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aaron, a dedicated software developer and cloud enthusiast. My passion lies in coding with JavaScript, Python, and Go, 
+and I am currently 3x AWS Certified.
 
-Here are some ideas to get you started:
+🌟 Core Skills:
+ - Languages: JavaScript, Python, Go.
+ - Cloud & DevOps: Proficient in AWS with a deep understanding of various services and DevOps practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ DevOps & Cloud:
+
+ - AWS Expertise: Hands-on experience across a range of AWS services, such as EC2, Lambda, S3, RDS, VPC, IAM, and more.
+ - Infrastructure as Code (IaC): Skilled in automating infrastructure provisioning using AWS CloudFormation.
+ - Containerization: Proficiency in managing Dockerized applications, with exposure to Amazon ECS/EKS.
+ - CI/CD: Expertise in implementing CI/CD pipelines using tools like AWS CodePipeline and Bitbucket pipelines.
+ - Monitoring: Proficient with AWS CloudWatch to ensure seamless application performance and monitoring.
+
+
+🌱 What I'm currently learning:
+ - Diving deeper into cloud-native architectures, exploring advanced container orchestration techniques, and mastering backend performance optimizations.
+
+📫 How to reach me:
+
+    LinkedIn: [Your LinkedIn Profile]
+    Twitter: [Your Twitter Handle]
