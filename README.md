@@ -21,5 +21,5 @@ and I am currently 3x AWS Certified.
 
 ### 📫 How to reach me:
 
-    LinkedIn: [Your LinkedIn Profile]
-    Twitter: [Your Twitter Handle]
+    LinkedIn: www.linkedin.com/in/aaron-janes
+    Twitter: [🐦](https://twitter.com/aaronjanes_dev)https://twitter.com/aaronjanes_dev
