@@ -1,4 +1,4 @@
-### Hello, World! 👋
+## Hello, World! 👋
 
 I'm Aaron, a dedicated software developer and cloud enthusiast. My passion lies in coding with JavaScript, Python, and Go, 
 and I am currently 3x AWS Certified.
@@ -6,6 +6,13 @@ and I am currently 3x AWS Certified.
 ### 🌟 Core Skills:
  - Languages: JavaScript, Python, Go.
  - Cloud & DevOps: Proficient in AWS with a deep understanding of various services and DevOps practices.
+
+### 🖥️ Web Development:
+
+ - Tech Leadership: As a Tech Lead, I guide teams through the entire development lifecycle, ensuring best practices, optimized code, and high-quality deliverables.
+ - Frontend: Expertise in React and TypeScript with a focus on responsive design, user experience, and performance.
+ - Backend: Proficient in developing scalable and robust backends using Python, Go, Django, Express.js and NodeJs.
+ - APIs & Integrations: Designed and integrated RESTful APIs, managed third-party integrations and ensured data consistency and reliability.
 
 ### 🛠️ DevOps & Cloud:
 
