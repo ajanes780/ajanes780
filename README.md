@@ -31,3 +31,5 @@ and I am currently 3x AWS Certified.
 
     LinkedIn: www.linkedin.com/in/aaron-janes
     Twitter: https://twitter.com/aaronjanes_dev
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,tailwind,js,ts,jquery,react,redux,next,vite,angular,wordpress,jest,docker,vercel,netlify,aws,git,c,cs,cpp,java,php,nodejs,express,py,django,mysql,sqlite,mongodb,postgresql,postman">
