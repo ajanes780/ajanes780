@@ -9,7 +9,7 @@ and I am currently 3x AWS Certified.
  - Cloud & DevOps: Proficient in AWS with a deep understanding of various services and DevOps practices.
    
 <p align='center'>
- <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,tailwind,js,ts,py,django,jquery,react,redux,next,vite,angular,wordpress,jest,docker,vercel,netlify,aws,git,java,nodejs,express,mysql,sqlite,mongodb,postgresql,postman">
+ <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,tailwind,js,ts,py,django,jquery,react,redux,next,vite,angular,wordpress,jest,docker,vercel,netlify,aws,git,go,java,nodejs,express,mysql,sqlite,mongodb,postgresql,postman">
 </p>
 
 ### 🖥️ Web Development:
