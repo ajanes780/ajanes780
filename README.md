@@ -49,7 +49,7 @@ and I am currently 3x AWS Certified.
    
   
   <a href="https://github.com/ajanes780?tab=stars">
-    <img width='100%' height='300px' src="https://github-readme-streak-stats.herokuapp.com?user=ajanes780&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="ajanes780's github-readme-streak-stats"/>
+    <img width='100%' height='300px' src="https://github-readme-streak-stats.herokuapp.com?user=ajanes780&theme=github&date_format=M%20j%5B%2C%20Y%5D" alt="ajanes780's github-readme-streak-stats"/>
   </a>
 
 
