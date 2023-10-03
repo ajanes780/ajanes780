@@ -37,18 +37,22 @@ and I am currently 3x AWS Certified.
     Twitter: https://twitter.com/aaronjanes_dev
 
 
+
 <p align="center">
-  <a href="https://github.com/ajanes780?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ajanes780&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="49%" alt="ajanes780's github-readme-stats"/>
+ 
+ <a href="https://github.com/ajanes780?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ajanes780&theme=github&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="ajanes780's github-readme-stats"/>
   </a>
+ 
   <a href="https://github.com/ajanes780?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ajanes780&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="ajanes780's github-readme-streak-stats"/>
+    <img  src="https://github-readme-streak-stats.herokuapp.com?user=ajanes780&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="ajanes780's github-readme-streak-stats"/>
   </a>
 </p>
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajanes780&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
-</p>
+
+
+  <img  width='100%' height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajanes780&theme=github&size_weight=0.5&count_weight=0.5&layout=compact" />
+
 
