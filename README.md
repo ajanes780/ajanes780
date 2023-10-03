@@ -38,8 +38,6 @@ and I am currently 3x AWS Certified.
 
 
 
-
-
 <img width='100%' height='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajanes780&theme=github&size_weight=0.5&count_weight=0.5&layout=donut" />
 
  <a href="https://github.com/ajanes780?tab=repositories">
