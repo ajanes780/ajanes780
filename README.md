@@ -41,7 +41,7 @@ and I am currently 3x AWS Certified.
 
  <p>
  <a href="https://github.com/ajanes780?tab=repositories">
-    <img   src="https://github-readme-stats-one-bice.vercel.app/api?username=ajanes780&theme=github&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="ajanes780's github-readme-stats"/>
+    <img width='100%' height='300px' src="https://github-readme-stats-one-bice.vercel.app/api?username=ajanes780&theme=github&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="ajanes780's github-readme-stats"/>
   </a>
   </p>
 
@@ -49,10 +49,10 @@ and I am currently 3x AWS Certified.
    
   
   <a href="https://github.com/ajanes780?tab=stars">
-    <img  src="https://github-readme-streak-stats.herokuapp.com?user=ajanes780&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="ajanes780's github-readme-streak-stats"/>
+    <img width='100%' height='300px' src="https://github-readme-streak-stats.herokuapp.com?user=ajanes780&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="ajanes780's github-readme-streak-stats"/>
   </a>
 
 </p>
-  <img width='50%'src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajanes780&theme=github&size_weight=0.5&count_weight=0.5&layout=donut" />
+  <img width='100%' height='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajanes780&theme=github&size_weight=0.5&count_weight=0.5&layout=donut" />
 
 
