@@ -5,7 +5,7 @@ and I am currently 3x AWS Certified.
 
 ### 🌟 Core Skills:
  - Languages: JavaScript, Python, Go.
- - Web Development: Lead and shape web projects from conception to deployment, specializing in both frontend and backend technologies.
+ - Web Development: Lead and shape web projects from conception to deployment, specializing in front and backend technologies.
  - Cloud & DevOps: Proficient in AWS with a deep understanding of various services and DevOps practices.
    
 <p align='center'>
